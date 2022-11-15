@@ -1,8 +1,6 @@
 {
     "linters": {
-        "pylint": {
-            "args": ["--disable=C0103"]
-        }
+    
     },
 	"styles": [
 		{

@@ -1,3 +1,4 @@
 {
-	"anaconda_linting": false,
+	"anaconda_linting": true,
+	"anaconda_linter_mark_style": "solid_underline",
 }
