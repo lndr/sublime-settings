@@ -1,5 +1,5 @@
 {
-	"shell_cmd": "start cmd /k ipython -i \"$file\"",
+	"shell_cmd": "start PowerShell -NoExit ipython -i '$file'",
 	"working_dir": "$file_path",
     "selector": "source.python"
 }
