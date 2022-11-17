@@ -1,0 +1,6 @@
+{
+	"tex_file_exts": [".tex", ".tikz"],
+	"windows": {
+		"distro" : "texlive",
+	},
+}
