@@ -5,6 +5,5 @@
 	"osx": {
 		"cmd": ["osascript", "-e", "tell app \"Terminal\" to activate do script \"cd '$file_path'; ipython -i --matplotlib auto '$file_name'\""],
 	},
-	"working_dir": "$file_path",
     "selector": "source.python"
 }
