@@ -1,0 +1,4 @@
+{
+	"shell_cmd": "sphinx-build $file_path $file_path/../build",
+	"file_patterns": ["*.rst"],
+}
