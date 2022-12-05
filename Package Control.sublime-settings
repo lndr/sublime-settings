@@ -5,6 +5,7 @@
 	"installed_packages":
 	[
 		"Anaconda",
+		"gmsh-Tools",
 		"LaTeXTools",
 		"MarkdownLivePreview",
 		"Package Control",
