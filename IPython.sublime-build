@@ -2,6 +2,9 @@
 	"windows": {
 		"shell_cmd": "start PowerShell -NoExit echo '$file'; ipython -i --matplotlib auto '$file'",
 	},
+	"linux": {
+		"cmd": ["konsole", "--noclose", "-e", "ipython",  "-i", "--matplotlib", "auto", "$file"],
+	},
 	"osx": {
 		"cmd": ["osascript", "-e", "tell app \"Terminal\" to activate do script \"cd '$file_path'; ipython -i --matplotlib auto '$file_name'\""],
 	},
