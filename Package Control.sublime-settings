@@ -5,6 +5,7 @@
 	"installed_packages":
 	[
 		"Anaconda",
+		"AutoDocstring",
 		"gmsh-Tools",
 		"LaTeX Word Count",
 		"LaTeXTools",
