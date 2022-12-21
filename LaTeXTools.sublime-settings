@@ -1,5 +1,5 @@
 {
-	"tex_file_exts": [".tex", ".tikz"],
+	"tex_file_exts": [".cls", ".sty", ".tex", ".tikz"],
 	"windows": {
 		"distro" : "texlive",
 	},
