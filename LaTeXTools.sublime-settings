@@ -1,5 +1,10 @@
 {
 	"tex_file_exts": [".cls", ".sty", ".tex", ".tikz"],
+	"temp_files_exts": [
+		".blg", ".bbl", ".aux", ".log", ".brf", ".nlo", ".out", ".dvi", ".ps",
+		".lof", ".toc", ".fls", ".fdb_latexmk", ".pdfsync", ".synctex.gz",
+		".ind", ".ilg", ".idx", ".bcf", ".run.xml" 
+	],
 	"windows": {
 		"distro" : "texlive",
 	},
