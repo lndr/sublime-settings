@@ -1,0 +1,6 @@
+[
+  { "keys": ["primary+#"], "command": "toggle_comment", "args": { "block": false } },
+  { "keys": ["primary+shift+#"], "command": "toggle_comment", "args": { "block": true } },
+  { "keys": ["primary+shift+-"], "command": "auto_docstring" },
+  { "keys": ["primary+alt+shift+-"], "command": "auto_docstring_all" }
+]
