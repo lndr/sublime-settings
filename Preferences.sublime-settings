@@ -6,4 +6,8 @@
 	{
 		"sublime_executable": "C:\\Program Files\\Sublime Text\\subl.exe",
 	},
+	"ignored_packages":
+	[
+		"Vintage",
+	],
 }
