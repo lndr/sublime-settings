@@ -2,4 +2,8 @@
 	"font_face": "Fira Code Light",
 	"font_size": 13,
 	"spell_check": true,
+	"windows": 
+	{
+		"sublime_executable": "C:\\Program Files\\Sublime Text\\subl.exe",
+	},
 }
