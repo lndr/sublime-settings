@@ -10,4 +10,17 @@
 	[
 		"Vintage",
 	],
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"added_words":
+	[
+		"piezoceramic",
+		"zirconate",
+		"titanate",
+		"nonlinear",
+		"Fluiddynamik",
+		"Scherviskosität",
+		"Fluidkenngrößen",
+		"schallschwächenden",
+		"signalschwächenden",
+	],
 }
