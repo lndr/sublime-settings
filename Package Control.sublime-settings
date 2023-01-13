@@ -16,5 +16,6 @@
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-chktex",
+		"SublimeLinter-contrib-yamllint",
 	],
 }
