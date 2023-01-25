@@ -1,9 +1,11 @@
 {
     "linters": {
-    
+        "chktex": {
+            "filter_errors": "Warning 8: Wrong length of dash",
+        },
     },
-	"styles": [
-		{
+    "styles": [
+        {
         },
         {
             "mark_style": "solid_underline",
