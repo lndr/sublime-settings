@@ -2,5 +2,23 @@
   { "keys": ["primary+#"], "command": "toggle_comment", "args": { "block": false } },
   { "keys": ["primary+shift+#"], "command": "toggle_comment", "args": { "block": true } },
   { "keys": ["primary+shift+-"], "command": "auto_docstring" },
-  { "keys": ["primary+alt+shift+-"], "command": "auto_docstring_all" }
+  { "keys": ["primary+alt+shift+-"], "command": "auto_docstring_all" },
+  {
+    "keys": ["primary+shift+e"],
+    "command": "set_user_setting",
+    "args": {
+        "file": "Preferences.sublime-settings",
+        "setting": "dictionary",
+        "value": "Packages/Language - English/en_GB.dic"
+    }
+  },
+  {
+    "keys": ["primary+shift+d"],
+    "command": "set_user_setting",
+    "args": {
+        "file": "Preferences.sublime-settings",
+        "setting": "dictionary",
+        "value": "Packages/User/Dictionaries/German_de_DE.dic"
+    }
+  },
 ]
