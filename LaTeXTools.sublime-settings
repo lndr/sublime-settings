@@ -8,4 +8,16 @@
 	"windows": {
 		"distro" : "texlive",
 	},
+	"preview_math_template_preamble": [
+		"\\newcommand{\\deriv}[2]{\\partial_{#2} {#1}}",
+		"\\newcommand{\\dif}{\\mathrm{d} \\,}",
+		"\\newcommand{\\divg}{\\nabla{} \\cdot}",
+		"\\newcommand{\\e}[1]{\\mathrm{e}^{\\,#1}}",
+		"\\newcommand{\\ex}[1]{\\mathrm{exp}\\left(#1\\right)}",
+		"\\newcommand{\\grad}{\\nabla}",
+		"\\newcommand{\\im}{\\mathrm{j}}",
+		"\\newcommand{\\laplace}{\\nabla^2}",
+		"\\newcommand{\\uix}[1]{_\\mathrm{#1}}",
+		"\\renewcommand{\\vec}[1]{\\mathbf{#1}}",
+	],
 }
