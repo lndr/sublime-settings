@@ -1,7 +1,10 @@
 {
     "linters": {
         "chktex": {
-            "filter_errors": "Warning 8: Wrong length of dash",
+            "filter_errors": [ 
+                "Warning 8: Wrong length of dash",
+                "Capitalize before references",
+            ]
         },
     },
     "styles": [
