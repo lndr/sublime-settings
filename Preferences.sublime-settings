@@ -8,6 +8,7 @@
 	},
 	"ignored_packages":
 	[
+		"Rust",
 		"Vintage",
 	],
 	"dictionary": "Packages/Language - English/en_GB.dic",
