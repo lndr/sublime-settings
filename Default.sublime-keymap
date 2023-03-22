@@ -21,4 +21,31 @@
         "value": "Packages/User/Dictionaries/German_de_DE.dic"
     }
   },
+  {
+    "keys": ["primary+shift+n"],
+    "command": "set_user_setting",
+    "args": {
+        "file": "Preferences.sublime-settings",
+        "setting": "rulers",
+        "value": [],
+    }
+  },
+  {
+    "keys": ["primary+shift+s"],
+    "command": "set_user_setting",
+    "args": {
+        "file": "Preferences.sublime-settings",
+        "setting": "rulers",
+        "value": [80],
+    }
+  },
+  {
+    "keys": ["primary+shift+w"],
+    "command": "set_user_setting",
+    "args": {
+        "file": "Preferences.sublime-settings",
+        "setting": "rulers",
+        "value": [100],
+    }
+  },
 ]
