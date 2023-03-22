@@ -23,29 +23,32 @@
   },
   {
     "keys": ["primary+shift+n"],
-    "command": "set_user_setting",
+    "command": "chain",
     "args": {
-        "file": "Preferences.sublime-settings",
-        "setting": "rulers",
-        "value": [],
+      "commands": [
+        ["set_user_setting", {"file": "Preferences.sublime-settings", "setting": "rulers", "value": []}],
+        ["set_user_setting", {"file": "Anaconda.sublime-settings", "setting": "pep8_max_line_length", "value": 255}],
+      ]
     }
   },
   {
     "keys": ["primary+shift+s"],
-    "command": "set_user_setting",
+    "command": "chain",
     "args": {
-        "file": "Preferences.sublime-settings",
-        "setting": "rulers",
-        "value": [80],
+      "commands": [
+        ["set_user_setting", {"file": "Preferences.sublime-settings", "setting": "rulers", "value": [80]}],
+        ["set_user_setting", {"file": "Anaconda.sublime-settings", "setting": "pep8_max_line_length", "value": 79}],
+      ]
     }
   },
   {
     "keys": ["primary+shift+w"],
-    "command": "set_user_setting",
+    "command": "chain",
     "args": {
-        "file": "Preferences.sublime-settings",
-        "setting": "rulers",
-        "value": [100],
+      "commands": [
+        ["set_user_setting", {"file": "Preferences.sublime-settings", "setting": "rulers", "value": [100]}],
+        ["set_user_setting", {"file": "Anaconda.sublime-settings", "setting": "pep8_max_line_length", "value": 99}],
+      ]
     }
   },
 ]

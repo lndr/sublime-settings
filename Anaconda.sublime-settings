@@ -1,4 +1,6 @@
 {
 	"anaconda_linting": true,
 	"anaconda_linter_mark_style": "solid_underline",
+	"pep8_max_line_length":
+	79,
 }
