@@ -18,11 +18,17 @@
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"added_words":
 	[
+		// English
 		"labeled",
 		"nonlinear",
 		"piezoceramic",
+		"testedness",
+		"thermoelastical",
 		"titanate",
+		"wavenumber",
+		"wavenumbers",
 		"zirconate",
+		// German
 		"Abweichungsquadrate",
 		"breitbandigeren",
 		"Decan",
@@ -35,6 +41,7 @@
 		"forminvarianten",
 		"isochore",
 		"isochor",
+		"Kolbenschwingerradius",
 		"Kontinuitätsgleichung",
 		"Octan",
 		"referenzdatenbasiert",
@@ -47,6 +54,7 @@
 		"Reverberation",
 		"Reverberationen",
 		"schallschwächenden",
+		"Schallwandlerachse",
 		"Schallwandlerfassung",
 		"Scherviskosität",
 		"signalschwächenden",
