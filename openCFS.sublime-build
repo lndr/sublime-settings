@@ -1,0 +1,10 @@
+{
+	"windows": {
+		"shell_cmd": "start PowerShell -NoExit cfsbin $file_base_name",
+	},
+	"linux": {
+		"cmd": ["cfs", "$file_base_name"],
+	},
+	"selector": "source.xml",
+    "file_patterns": ["*.xml"],
+}
