@@ -36,7 +36,7 @@
     "command": "chain",
     "args": {
       "commands": [
-        ["set_user_setting", {"file": "Preferences.sublime-settings", "setting": "rulers", "value": [80]}],
+        ["set_user_setting", {"file": "Preferences.sublime-settings", "setting": "rulers", "value": [79]}],
         ["set_user_setting", {"file": "Anaconda.sublime-settings", "setting": "pep8_max_line_length", "value": 79}],
       ]
     }
@@ -46,7 +46,7 @@
     "command": "chain",
     "args": {
       "commands": [
-        ["set_user_setting", {"file": "Preferences.sublime-settings", "setting": "rulers", "value": [100]}],
+        ["set_user_setting", {"file": "Preferences.sublime-settings", "setting": "rulers", "value": [99]}],
         ["set_user_setting", {"file": "Anaconda.sublime-settings", "setting": "pep8_max_line_length", "value": 99}],
       ]
     }
