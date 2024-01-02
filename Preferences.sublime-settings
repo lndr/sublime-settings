@@ -2,6 +2,7 @@
 	"font_face": "Fira Code Light",
 	"font_size": 13,
 	"trim_trailing_white_space_on_save": true,
+	"translate_tabs_to_spaces": true,
 	"spell_check": true,
 	"rulers": [
 		80,
