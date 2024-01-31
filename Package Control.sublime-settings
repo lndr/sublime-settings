@@ -11,6 +11,8 @@
 		"Jinja2",
 		"LaTeX Word Count",
 		"LaTeXTools",
+		"LSP",
+		"LSP-ltex-ls",
 		"MarkdownLivePreview",
 		"Package Control",
 		"PyTest",
