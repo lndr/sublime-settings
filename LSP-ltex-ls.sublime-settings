@@ -1,7 +1,6 @@
-// Settings in here override those in "LSP-ltex-ls/LSP-ltex-ls.sublime-settings"
-
 {
+    "selector": "text.tex, text.bibtex, text.html.markdown, text.restructuredtext, text.txt",
     "settings": {
         "ltex.language":"auto",
-    }
+    },
 }
