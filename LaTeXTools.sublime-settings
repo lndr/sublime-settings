@@ -3,7 +3,7 @@
 	"temp_files_exts": [
 		".blg", ".bbl", ".aux", ".log", ".brf", ".nlo", ".out", ".dvi", ".ps",
 		".lof", ".toc", ".fls", ".fdb_latexmk", ".pdfsync", ".synctex.gz",
-		".ind", ".ilg", ".idx", ".bcf", ".run.xml" 
+		".ind", ".ilg", ".idx", ".bcf", ".run.xml", ".xmpdata",
 	],
 	"windows": {
 		"distro" : "texlive",
