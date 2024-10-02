@@ -51,4 +51,9 @@
       ]
     }
   },
+  {
+      "keys": ["primary+shift+x"],
+      "command": "lsp_code_actions",
+      "context": [{"key": "lsp.session_with_capability", "operand": "codeActionProvider"}]
+  },
 ]
