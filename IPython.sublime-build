@@ -1,6 +1,6 @@
 {
 	"windows": {
-		"shell_cmd": "start PowerShell -NoExit echo '$file'; ipython -i --matplotlib auto '$file'",
+		"shell_cmd": "start PowerShell -NoExit Write-Host '$file' -ForegroundColor Cyan; ipython -i --matplotlib auto '$file'",
 	},
 	"linux": {
 		"cmd": ["konsole", "--noclose", "-e", "ipython",  "-i", "--matplotlib", "auto", "$file"],
