@@ -6,7 +6,7 @@
 		"cmd": ["konsole", "--noclose", "-e", "ipython",  "-i", "--matplotlib", "auto", "$file"],
 	},
 	"osx": {
-		"cmd": ["osascript", "-e", "tell app \"Terminal\" to activate do script \"cd '$file_path'; ipython -i --matplotlib auto '$file_name'\""],
+		"cmd": ["osascript", "-e", "tell app \"Terminal\" to activate do script \"clear; tput setaf 6; echo -e '$file'; tput setaf 7; cd '$file_path'; ipython -i --matplotlib auto '$file_name'\""],
 	},
     "selector": "source.python",
     "file_patterns": ["*.py"],
