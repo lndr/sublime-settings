@@ -27,7 +27,6 @@
     "args": {
       "commands": [
         ["set_user_setting", {"file": "Preferences.sublime-settings", "setting": "rulers", "value": []}],
-        ["set_user_setting", {"file": "Anaconda.sublime-settings", "setting": "pep8_max_line_length", "value": 255}],
       ]
     }
   },
@@ -37,7 +36,6 @@
     "args": {
       "commands": [
         ["set_user_setting", {"file": "Preferences.sublime-settings", "setting": "rulers", "value": [79]}],
-        ["set_user_setting", {"file": "Anaconda.sublime-settings", "setting": "pep8_max_line_length", "value": 79}],
       ]
     }
   },
@@ -47,7 +45,6 @@
     "args": {
       "commands": [
         ["set_user_setting", {"file": "Preferences.sublime-settings", "setting": "rulers", "value": [99]}],
-        ["set_user_setting", {"file": "Anaconda.sublime-settings", "setting": "pep8_max_line_length", "value": 99}],
       ]
     }
   },

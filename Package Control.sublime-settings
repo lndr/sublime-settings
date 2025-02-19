@@ -4,7 +4,6 @@
 	],
 	"installed_packages":
 	[
-		"Anaconda",
 		"AutoDocstring",
 		"gmsh-Tools",
 		"Highlight Dodgy Chars",
