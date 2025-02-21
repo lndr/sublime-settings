@@ -13,6 +13,7 @@
 		"LaTeXTools",
 		"LSP",
 		"LSP-ltex-ls",
+		"LSP-pylsp",
 		"MarkdownLivePreview",
 		"Package Control",
 		"PowerShell",

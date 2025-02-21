@@ -1,0 +1,5 @@
+{
+    "settings": {
+        "pylsp.plugins.ruff.enabled": true,
+    }
+}
