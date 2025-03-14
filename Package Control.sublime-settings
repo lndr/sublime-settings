@@ -5,6 +5,7 @@
 	"installed_packages":
 	[
 		"AutoDocstring",
+		"AutoPEP8",
 		"gmsh-Tools",
 		"Highlight Dodgy Chars",
 		"Jinja2",
