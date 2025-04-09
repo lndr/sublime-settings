@@ -3,7 +3,7 @@
 		"shell_cmd": "start PowerShell -NoExit Write-Host '$file' -ForegroundColor Cyan; ipython -i --matplotlib auto '$file'",
 	},
 	"linux": {
-		"cmd": ["konsole", "--noclose", "-e", "ipython",  "-i", "--matplotlib", "auto", "$file"],
+		"shell_cmd": "nohup konsole --noclose -e ipython -i --matplotlib auto '$file' &",
 	},
 	"osx": {
 		"cmd": ["osascript", "-e", "tell app \"Terminal\" to activate do script \"clear; tput setaf 6; echo -e '$file'; tput setaf 7; cd '$file_path'; ipython -i --matplotlib auto '$file_name'\""],
