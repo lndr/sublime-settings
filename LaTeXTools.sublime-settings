@@ -5,6 +5,9 @@
 		".lof", ".toc", ".fls", ".fdb_latexmk", ".pdfsync", ".synctex.gz",
 		".ind", ".ilg", ".idx", ".bcf", ".run.xml", ".xmpdata",
 	],
+	"osx": {
+		"texpath" : "/opt/homebrew/bin/latexmk:$PATH"
+	},
 	"windows": {
 		"distro" : "texlive",
 	},
