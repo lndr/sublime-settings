@@ -1,6 +1,6 @@
 {
     "selector": "text.tex, text.bibtex, text.html.markdown, text.restructuredtext, text.txt",
     "settings": {
-        "ltex.language":"auto",
-    },
+		"ltex.language": "en-GB",
+	},
 }
